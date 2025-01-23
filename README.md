@@ -79,7 +79,7 @@ and
     release_year = 2020
 
 
--- Find the top 5 countries with the most conytent on netflix
+--4 Find the top 5 countries with the most conytent on netflix
 
 select 
 	country,
